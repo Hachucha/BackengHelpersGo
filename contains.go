@@ -1,4 +1,4 @@
-package main
+package BackengHelpersGo
 
 func ContainsInt(s []int, e int) bool {
     for _, a := range s {
